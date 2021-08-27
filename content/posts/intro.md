@@ -1,10 +1,10 @@
 ---
-title: "Intro"
+title: "First Note..."
 date: 2021-08-24T21:04:57+08:00
 draft: false
 ---
 
-*test*
+ 写点东西，主要是技术相关。
 
 > trying to see if hugo works for me
 
