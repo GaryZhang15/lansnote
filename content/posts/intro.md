@@ -1,36 +1,11 @@
 ---
-title: "First Note..."
+title: "第一篇：简单介绍"
 date: 2021-08-24T21:04:57+08:00
 draft: false
 ---
 
  写点东西，主要是技术相关。
 
-> trying to see if hugo works for me
-
-[Text](https://www.gohugo.io "Title")
-
-
-```powershell {linenos=table,linenostart=1}
-// Get-Service bits
-Get-Service bits
-```
-
-**sample html code**
-{{< highlight html "linenos=table,linenostart=1">}}
-<section id="main">
-  <div>
-   <h1 id="title">{{ .Title }}</h1>
-    {{ range .Pages }}
-        {{ .Render "summary"}}
-    {{ end }}
-  </div>
-</section>
-{{< /highlight >}}
-
-**sample powershell code**
-{{< highlight powershell "linenos=table,linenostart=1">}}
-Get-Service bits
-Get-Service bits
-Get-Service bits
-{{< /highlight >}}
+ 1. 学习笔记，回顾总结，一周最好能有一次 😀
+ 2. 分享知识，有的知识技巧可以定期分享一下 💪
+ 3. 感悟分享，这个其实很多，具体怎么分享还没想好😅
