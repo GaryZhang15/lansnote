@@ -1,7 +1,7 @@
 ---
 title: "Hugo"
 date: 2021-08-28T13:28:11+08:00
-draft: true
+draft: false
 ---
 
 hugo静态网站生成器
